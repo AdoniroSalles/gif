@@ -1,0 +1,1 @@
+Projeto de um app mobile para a busca de Gifs, este projeto foi feito usando Flutter com intuito de estudar e aprender melhor sobre esse framework. 
